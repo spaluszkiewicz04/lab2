@@ -1,102 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|c:\\users\\stanley\\desktop\\bioinformatyka\\bs\\lab2a\\sklep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|c:\\users\\stanley\\desktop\\bioinformatyka\\bs\\lab2a\\sklep\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|c:\\users\\stanley\\desktop\\bioinformatyka\\bs\\lab2a\\sklep\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|solutionrelative:computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|c:\\users\\stanley\\desktop\\bioinformatyka\\bs\\lab2a\\sklep\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|solutionrelative:computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|c:\\users\\stanley\\desktop\\bioinformatyka\\bs\\lab2a\\sklep\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1CA292AC-38AB-4C6A-B462-5FCAC197AF42}|sklep.csproj|solutionrelative:monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2\\sklep\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:33:15.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Computer.cs",
-              "RelativeDocumentMoniker": "Computer.cs",
-              "ToolTip": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Computer.cs",
-              "RelativeToolTip": "Computer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIAwwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:29:54.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Monitor.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Monitor.cs",
-              "RelativeDocumentMoniker": "Monitor.cs",
-              "ToolTip": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Monitor.cs [Projekt]",
-              "RelativeToolTip": "Monitor.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:22:29.965Z",
-              "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Computer.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Computer.cs",
-              "RelativeDocumentMoniker": "Computer.cs",
-              "ToolTip": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Computer.cs [Projekt]",
-              "RelativeToolTip": "Computer.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:22:17.223Z",
-              "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "C:\\Users\\Stanley\\Desktop\\Bioinformatyka\\BS\\lab2a\\sklep\\Main.cs [Projekt]",
-              "RelativeToolTip": "Main.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:21:35.059Z",
-              "EditorCaption": " [Projekt]"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
